@@ -10,3 +10,4 @@
 <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/tamirespatrocinio/app10Dicas">
 <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/tamirespatrocinio/app10Dicas">
 </p>
+</div>
